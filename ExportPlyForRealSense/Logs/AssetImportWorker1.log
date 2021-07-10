@@ -1,0 +1,117 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.9f1 (108be757e447) revision 1084391'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1083; Version 2009; 64bit' Language: 'ko' Physical Memory: 32718 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.9f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/wodnd/Documents/ExportPlyForRealSense/ExportPlyForRealSense
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+9888
+Successfully changed project path to: C:/Users/wodnd/Documents/ExportPlyForRealSense/ExportPlyForRealSense
+C:/Users/wodnd/Documents/ExportPlyForRealSense/ExportPlyForRealSense
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 25.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1 (108be757e447)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/wodnd/Documents/ExportPlyForRealSense/ExportPlyForRealSense/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 590 Series (ID=0x67df)
+    Vendor:   
+    VRAM:     8171 MB
+    Driver:   27.20.22001.14011
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56444
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003220 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 24.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.373 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001995 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.902 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1177 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.8 MB.
+System memory in use after: 59.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1618.
+Total: 1.558800 ms (FindLiveObjects: 0.123200 ms CreateObjectMapping: 0.026900 ms MarkObjects: 1.333400 ms  DeleteObjects: 0.074300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/StreamingAssets/sample_assets.manifest
+  artifactKey: Guid(0527d5e0b8c469d43ae6a96110dd4722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/sample_assets.manifest using Guid(0527d5e0b8c469d43ae6a96110dd4722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '491d8f7f6b2166ce80b4760ad115de0d') in 0.051462 seconds
+  Import took 0.053438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/StreamingAssets/sample_scenes
+  artifactKey: Guid(0f29a102b05338947a84b9cdc5daf036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/sample_scenes using Guid(0f29a102b05338947a84b9cdc5daf036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be81ae686a20f1d73b790d75bb0cd26') in 0.008806 seconds
+  Import took 0.010574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/StreamingAssets
+  artifactKey: Guid(9041bbb10cdb48146aecfb60ab181b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets using Guid(9041bbb10cdb48146aecfb60ab181b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfb667cacc2e586d3bf04c3e7d526850') in 0.008471 seconds
+  Import took 0.010322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013448 seconds.
+  path: Assets/StreamingAssets/sample_assets
+  artifactKey: Guid(cdaf6532c2b24cc4699b6c74ca70a4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/sample_assets using Guid(cdaf6532c2b24cc4699b6c74ca70a4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ffc1db8b15791759e2ded6ae253607f') in 0.003540 seconds
+  Import took 0.005521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.284874 seconds.
+  path: Assets/StreamingAssets/StreamingAssets
+  artifactKey: Guid(a7bca3b98e4b4d14a8386196e2a07071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/StreamingAssets using Guid(a7bca3b98e4b4d14a8386196e2a07071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff47bcfde29066c5ad10009958225c56') in 0.003181 seconds
+  Import took 0.005146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.478481 seconds.
+  path: Assets/StreamingAssets/StreamingAssets.manifest
+  artifactKey: Guid(fc91cf49ad8a9684082def95df21f0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/StreamingAssets.manifest using Guid(fc91cf49ad8a9684082def95df21f0e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b0ec3576d35cd6638009444e32d415a') in 0.003177 seconds
+  Import took 0.005115 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
